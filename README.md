@@ -25,7 +25,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-··· javascript
+···javascript
 function demo(){
   alert(document.cookie);
 }
